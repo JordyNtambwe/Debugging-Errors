@@ -7,4 +7,4 @@ function reverse(original) {
   return original.split('').reverse('').join('');
  }
 
-}
+};
